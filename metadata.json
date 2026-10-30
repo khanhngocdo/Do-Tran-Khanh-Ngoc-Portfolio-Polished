@@ -1,0 +1,8 @@
+{
+  "name": "Do Tran Khanh Ngoc — Personal Journey Portfolio",
+  "description": "Academic and personal journey portfolio of Do Tran Khanh Ngoc, featuring biomedical research, sleep neurotechnology, community advocacy, and playful artistic sketchbook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
